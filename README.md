@@ -7,5 +7,4 @@ Comando basico `Escribe la moneda a convertir:` `¿A que divisa deseas convertir
 
 Ejemplo: `MXN` `USD` `2000`
 
-Una vez convertido la cantidad puesta, el programa pide si necesita hacer otra conversión, si se desea se escribe `si`, en caso contrario `no`.
-
+"Después de que la cantidad haya sido convertida, el programa pregunta si se desea realizar otra conversión. Si la respuesta es afirmativa, se debe ingresar `si`; de lo contrario, se ingresa `no`."
